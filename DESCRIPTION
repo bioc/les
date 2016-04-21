@@ -3,7 +3,7 @@ Type: Package
 Title: Identifying Differential Effects in Tiling Microarray Data
 Version: 1.21.2
 Author: Julian Gehring, Clemens Kreutz, Jens Timmer
-Maintainer: Julian Gehring <jg-bico@gmx.com>
+Maintainer: Julian Gehring <jg-bioc@gmx.com>
 Imports: boot, gplots, RColorBrewer
 Depends: R (>= 2.13.2), methods, graphics, fdrtool
 Suggests: Biobase, limma

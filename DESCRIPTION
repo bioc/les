@@ -1,7 +1,7 @@
 Package: les
 Type: Package
 Title: Identifying Differential Effects in Tiling Microarray Data
-Version: 1.46.0
+Version: 1.47.0
 Author: Julian Gehring, Clemens Kreutz, Jens Timmer
 Maintainer: Julian Gehring <jg-bioc@gmx.com>
 Imports: boot, gplots, RColorBrewer
